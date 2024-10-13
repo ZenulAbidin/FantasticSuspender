@@ -2,7 +2,7 @@
 
 [![Crowdin](https://badges.crowdin.net/tms/localized.svg)](https://crowdin.com/project/tms)
 
-"**The Fantastic Suspender**" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Totally based on the original "[The Great Suspender](https://github.com/greatsuspender/thegreatsuspender)" but without ADS tracking and problems explained [in this GitHub issue](https://github.com/greatsuspender/thegreatsuspender/issues/1263).
+"**The Fantastic Suspender**" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. It is based on "[The Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender)" which was [discontinued](https://github.com/gioxx/MarvellousSuspender/issues/197) in 2024, and was itself based on the original "[The Great Suspender](https://github.com/greatsuspender/thegreatsuspender)" but without ADS tracking and problems explained [in this GitHub issue](https://github.com/greatsuspender/thegreatsuspender/issues/1263). This fork fully supports Manifest V3 and should work on recent versions of Google Chrome and other Chromium-based browsers.
 
 Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a default, or user-configurable, time interval. As a result, resources such as memory and CPU that the tab was consuming are freed.
 
