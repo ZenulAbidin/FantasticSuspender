@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "冻结暂时用不到的标签页，以便释放系统资源。"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "冻结/恢复当前标签页"
@@ -195,7 +195,7 @@
         "message": "通知"
     },
     "html_notice_important_notice": {
-        "message": "来自 The Marvellous Suspender 的重要通知"
+        "message": "来自 The Fantastic Suspender 的重要通知"
     },
     "html_options_title": {
         "message": "设置"
@@ -366,7 +366,7 @@
         "message": "测试白名单"
     },
     "html_options_other_enable_context_menu": {
-        "message": "把 The Marvellous Suspender 加到右键菜单"
+        "message": "把 The Fantastic Suspender 加到右键菜单"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "将控件添加到网页的右键单击菜单。"
@@ -561,10 +561,10 @@
         "message": "更新"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "一个新版本的 The Marvellous Suspender 已准备好安装。\n请注意：冻结的页面将在更新过程中暂时消失。"
+        "message": "一个新版本的 The Fantastic Suspender 已准备好安装。\n请注意：冻结的页面将在更新过程中暂时消失。"
     },
     "html_update_info_withbackup": {
         "message": "为了以防万一，最好对当前标签页的会话的做备份。"

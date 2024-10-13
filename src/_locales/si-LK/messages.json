@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "ඔබ භාවිතා නොකරන ටැබ් අත්හිටුවීමෙන් ඔබේ පරිගණකය සුමටව ක්‍රියාත්මක වීමට සලස්වන්න"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "සක්‍රීය ටැබය අත්හිටුවීම/අවලංගු කිරීම"

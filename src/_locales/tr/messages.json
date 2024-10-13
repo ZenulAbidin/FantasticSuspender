@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Kullanmadığınız sekmeleri askıya alarak bilgisayarınızın sorunsuz çalışmasını sağlayın"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Askıya Al/Askıyı Kaldır active tab"
@@ -195,7 +195,7 @@
         "message": "Not"
     },
     "html_notice_important_notice": {
-        "message": "Marvellous Suspender'dan önemli uyarı"
+        "message": "Fantastic Suspender'dan önemli uyarı"
     },
     "html_options_title": {
         "message": "Ayarlar"
@@ -366,7 +366,7 @@
         "message": "Beyaz liste test"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Sağ tuş menüye Marvellous Suspender için menü ekle"
+        "message": "Sağ tuş menüye Fantastic Suspender için menü ekle"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Web sayfasının sağ tıklama menüsüne bu uzantı için kontrol ekle."
@@ -561,10 +561,10 @@
         "message": "Güncelle"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "The Marvellous Suspender yeni bir sürümü kurulmaya hazır.\nLütfen dikkat: Güncelleme sırasında askıya alınmış sekmeleriniz kısa bir süre kaybolacaktır."
+        "message": "The Fantastic Suspender yeni bir sürümü kurulmaya hazır.\nLütfen dikkat: Güncelleme sırasında askıya alınmış sekmeleriniz kısa bir süre kaybolacaktır."
     },
     "html_update_info_withbackup": {
         "message": "Şu anki sekmenin oturum yedeğini almak için uygun zaman olabilir."

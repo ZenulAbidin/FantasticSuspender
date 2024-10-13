@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "اجعل جهاز الكمبيوتر يعمل بسلاسة عن طريق تعليق علامات التبويب التي لا تستخدمها"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "إيقاف / إلغاء تعليق التبويب النشط"

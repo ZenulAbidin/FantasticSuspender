@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Faça o seu computador funcionar sem problemas suspendendo as guias que você não está usando"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Suspender/Recarregar a guia ativa"
@@ -195,7 +195,7 @@
         "message": "Aviso"
     },
     "html_notice_important_notice": {
-        "message": "Aviso importante do The Marvellous Suspender"
+        "message": "Aviso importante do The Fantastic Suspender"
     },
     "html_options_title": {
         "message": "Configurações"
@@ -366,7 +366,7 @@
         "message": "Lista branca de teste"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Adicionar The Marvellous Suspender no menu de contexto do clique do botão direito"
+        "message": "Adicionar The Fantastic Suspender no menu de contexto do clique do botão direito"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Adicione controles para esta extensão no menu do botão direito de uma página da web."
@@ -561,10 +561,10 @@
         "message": "Atualização"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "Uma nova versão do The Marvellous Suspender está pronta para ser instalada.\nObservação: durante a atualização, suas guias suspensas desaparecerão brevemente."
+        "message": "Uma nova versão do The Fantastic Suspender está pronta para ser instalada.\nObservação: durante a atualização, suas guias suspensas desaparecerão brevemente."
     },
     "html_update_info_withbackup": {
         "message": "este caso, agora pode ser um bom momento para fazer um backup da sua sessão de guias atuais."

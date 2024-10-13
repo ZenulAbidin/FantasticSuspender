@@ -1,5 +1,5 @@
 {
-  "name": "themarvelloussuspender",
+  "name": "thefantasticsuspender",
   "version": "0.0.0",
   "description": "A chrome extension for suspending all tabs to free up memory",
   "main": "",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gioxx/MarvellousSuspender.git"
+    "url": "git://github.com/gioxx/FantasticSuspender.git"
   },
   "keywords": [
     "chrome",
@@ -21,10 +21,10 @@
     "suspend",
     "tab"
   ],
-  "author": "Marvellous Suspender Team",
+  "author": "Fantastic Suspender Team",
   "license": "GPLv2",
   "bugs": {
-    "url": "https://github.com/gioxx/MarvellousSuspender/issues"
+    "url": "https://github.com/gioxx/FantasticSuspender/issues"
   },
   "devDependencies": {
     "eslint": "^4.19.1",

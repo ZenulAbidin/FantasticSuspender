@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Заставь свой браузер работать быстрее, приостанавливая неиспользуемые вкладки"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Приостановить/Возобновить активную вкладку"
@@ -195,7 +195,7 @@
         "message": "Уведомление"
     },
     "html_notice_important_notice": {
-        "message": "Важное уведомление от The Marvellous Suspender"
+        "message": "Важное уведомление от The Fantastic Suspender"
     },
     "html_options_title": {
         "message": "Настройки"
@@ -366,7 +366,7 @@
         "message": "Протестировать белый список"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Добавить The Marvellous Suspender в контекстное меню правой кнопки мыши"
+        "message": "Добавить The Fantastic Suspender в контекстное меню правой кнопки мыши"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Добавить элементы управления для этого расширения в контекстное меню веб-страницы."
@@ -561,10 +561,10 @@
         "message": "Обновление"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "Новая версия The Marvellous Suspender готова к установке.\nПримечание: в процессе обновления приостановленные вкладки могут временно пропасть."
+        "message": "Новая версия The Fantastic Suspender готова к установке.\nПримечание: в процессе обновления приостановленные вкладки могут временно пропасть."
     },
     "html_update_info_withbackup": {
         "message": "На всякий случай рекомендуется сделать резервную копию вкладок текущей сессии."

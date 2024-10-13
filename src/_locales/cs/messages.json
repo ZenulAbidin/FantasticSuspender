@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Make your computer run smoothly by suspending the tabs you aren't using"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Suspend/Unsuspend active tab"
@@ -195,7 +195,7 @@
         "message": "Notice"
     },
     "html_notice_important_notice": {
-        "message": "Important notice from The Marvellous Suspender"
+        "message": "Important notice from The Fantastic Suspender"
     },
     "html_options_title": {
         "message": "Settings"
@@ -366,7 +366,7 @@
         "message": "Test whitelist"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Add The Marvellous Suspender to right-click context menu"
+        "message": "Add The Fantastic Suspender to right-click context menu"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Add controls for this extension to the right-click menu of a web page."
@@ -507,7 +507,7 @@
         "message": "About"
     },
     "html_success_great_success": {
-        "message": "Marvellous success!"
+        "message": "Fantastic success!"
     },
     "html_success_all_tabs_restored": {
         "message": "All your tabs have been restored."
@@ -561,10 +561,10 @@
         "message": "Update"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "A new version of The Marvellous Suspender is ready to be installed.\nPlease note: during the update your suspended tabs will briefly disappear."
+        "message": "A new version of The Fantastic Suspender is ready to be installed.\nPlease note: during the update your suspended tabs will briefly disappear."
     },
     "html_update_info_withbackup": {
         "message": "Just in case, now might be a good time to save a backup of your current tab session."

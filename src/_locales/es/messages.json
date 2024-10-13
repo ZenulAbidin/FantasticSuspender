@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Haz que tu ordenador funcione sin problemas al suspender las pestañas que no estás usando"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Suspender/Anular suspensión de la pestaña activa"
@@ -195,7 +195,7 @@
         "message": "Aviso"
     },
     "html_notice_important_notice": {
-        "message": "Nota importante de The Marvellous Suspender"
+        "message": "Nota importante de The Fantastic Suspender"
     },
     "html_options_title": {
         "message": "Configuración"
@@ -366,7 +366,7 @@
         "message": "Probar lista blanca"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Añadir The Marvellous Suspender al menú contextual del clic derecho"
+        "message": "Añadir The Fantastic Suspender al menú contextual del clic derecho"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Añadir controles para esta extensión al menú de clic derecho de una página web."

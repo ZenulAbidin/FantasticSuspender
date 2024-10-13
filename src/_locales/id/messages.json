@@ -1,12 +1,12 @@
 {
     "ext_extension_name": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_extension_description": {
         "message": "Jadikan komputer Anda berjalan dengan lancar dengan menangguhkan tab yang tidak Anda gunakan"
     },
     "ext_default_title": {
-        "message": "The Marvellous Suspender"
+        "message": "The Fantastic Suspender"
     },
     "ext_cmd_toggle_tab_suspension_description": {
         "message": "Tangguhkan/BatalTangguhkan tab aktif"
@@ -195,7 +195,7 @@
         "message": "Pemberitahuan"
     },
     "html_notice_important_notice": {
-        "message": "Pemberitahuan penting dari The Marvellous Suspender"
+        "message": "Pemberitahuan penting dari The Fantastic Suspender"
     },
     "html_options_title": {
         "message": "Pengaturan"
@@ -366,7 +366,7 @@
         "message": "Uji daftar putih"
     },
     "html_options_other_enable_context_menu": {
-        "message": "Tambahkan The Marvellous Suspender ke menu konteks klik-kanan"
+        "message": "Tambahkan The Fantastic Suspender ke menu konteks klik-kanan"
     },
     "html_options_other_enable_context_menu_tooltip_line1": {
         "message": "Tambahkan kontrol untuk ekstensi ini ke klik-kanan menu dari sebuah halaman web."
@@ -561,10 +561,10 @@
         "message": "Perbarui"
     },
     "html_update_heading2": {
-        "message": "is about to get marvellous-er"
+        "message": "is about to get fantastic-er"
     },
     "html_update_info": {
-        "message": "Sebuah bersi baru dari The Marvellous Suspender siap dipasang.\nHarap diperhatikan: Selama pembaruan, tab yang ditangguhkan Anda akan menghilang sekilas."
+        "message": "Sebuah bersi baru dari The Fantastic Suspender siap dipasang.\nHarap diperhatikan: Selama pembaruan, tab yang ditangguhkan Anda akan menghilang sekilas."
     },
     "html_update_info_withbackup": {
         "message": "Jika, sekarang mungkin adalah waktu yang tepat untuk menyimpan cadangan sesi tab Anda saat ini."
